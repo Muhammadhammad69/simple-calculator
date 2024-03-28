@@ -1,11 +1,11 @@
 {
   "name": "gsk-simple-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
   "bin": {
-    "gsk-simple-calculator": "index.js"
+    "gsk-simple-calculator": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

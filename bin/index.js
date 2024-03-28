@@ -53,6 +53,6 @@ else if (userOperator !== "Square" && userOperator !== "Cube") {
             console.log(answer.toFixed(3));
             break;
         default:
-            console.log("enter correct information");
+            console.log("Please Enter Correct Operator");
     }
 }
